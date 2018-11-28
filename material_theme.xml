@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.4.1.5-2018.1" />
+    <option name="selectedTheme" value="LIGHTER" />
+    <option name="accentColor" value="ab47bc" />
+    <option name="tabsHeight" value="50" />
+    <option name="userId" value="-124e5349:16730d80365:-7fff" />
+    <option name="allowDataCollection" value="true" />
+  </component>
+</application>
